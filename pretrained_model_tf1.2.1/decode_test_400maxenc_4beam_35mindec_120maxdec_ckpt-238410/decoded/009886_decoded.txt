@@ -1,0 +1,5 @@
+estimates suggest 1,000 ios apps are vulnerable to a flaw in connectivity software from afnetworking .
+this includes uber , microsoft 's onedrive and movies by flixster and the flaw leaves any information .
+if its sent over a seemingly secure https connection , potentially open to hackers .
+search for apps below .
+estimates from security researchers suggest around 1,000 ios apps are vulnerable to a flaw in connectivity software from afnetworking .

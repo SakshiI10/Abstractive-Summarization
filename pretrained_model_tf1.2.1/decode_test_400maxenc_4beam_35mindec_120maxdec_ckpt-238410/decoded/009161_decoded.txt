@@ -1,0 +1,3 @@
+the optimal case uses micro-fans to blow heat away from the device .
+sensors in the case monitor the phone 's temperature and if it gets too cold .
+optimal syncs with a smartphone over bluetooth and constantly analyses the phone 's temperature when auto mode is enabled .

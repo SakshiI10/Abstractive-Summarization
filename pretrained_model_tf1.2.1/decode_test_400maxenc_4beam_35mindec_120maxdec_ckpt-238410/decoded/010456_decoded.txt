@@ -1,0 +1,3 @@
+security researchers have found a way to intercept a person 's biometric data after it is captured by a built-in scanner , but before it becomes encrypted .
+tao wei and yulong zhang confirmed the flaw was present on samsung galaxy s5 .
+they have not yet be as secure as first thought after a number of android devices .

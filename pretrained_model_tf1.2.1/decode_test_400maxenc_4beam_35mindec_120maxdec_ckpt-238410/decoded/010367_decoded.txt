@@ -1,0 +1,3 @@
+mobile x-ray scanner heralded as the world 's first ` airplane scanner ' it uses a cone of radiation to sweep across planes -lrb- shown -rrb- and look inside .
+the device is accurate enough to find a filament in a light bulb .
+but the radiation it emits is not safe for passengers yet .
