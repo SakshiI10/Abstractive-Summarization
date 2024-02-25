@@ -1,3 +1,0 @@
-Summary:
-‘ we are trying to create one sensor that can make every home smart , ’ ali kashani , co-founder of neurio told fast company .
-neurio is open platform so it can work with smart devices such as the nest thermostat too .

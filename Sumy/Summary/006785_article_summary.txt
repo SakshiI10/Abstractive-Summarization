@@ -1,3 +1,0 @@
-Summary:
-both tools override the selected sound profile , too , meaning that even if a phone is on silent it will still ring at full volume for five minutes . '
-both tools override the selected sound profile meaning that even if a phone is on silent it will still ring at full volume for five minutes .

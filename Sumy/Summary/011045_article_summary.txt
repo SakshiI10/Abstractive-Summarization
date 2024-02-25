@@ -1,3 +1,0 @@
-Summary:
-although the game appears relatively simple , and starts with a board of just four coloured squares ( left ) , it quickly grows ( right ) .
-eyesight and colour was recently linked to how we perceive the world by michael abrash , chief scientist from facebook-owned virtual reality ( vr ) experts oculus .

@@ -1,3 +1,0 @@
-Summary:
-they are the culmination of work initiated by blaauw and sylvester on very low-power processing for millimeter-scale systems .
-one key application for this line of smart sensors lies in personal security and information , its inventors say .

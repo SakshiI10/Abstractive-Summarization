@@ -1,3 +1,0 @@
-Summary:
-( cnn ) the question : how can i know if my food is safe to eat after a specific product recall ?
-to learn more about the best food safety practices , visit uc berkeley 's wellness website .

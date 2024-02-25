@@ -1,3 +1,0 @@
-Summary:
-unispectral technologies and tel aviv university , who are behind the system , say it works by analysing a materials ' hyperspectral signature ' , which is its unique chemical fingerprint .
-this allows it to provide more detailed information about the scene than a normal color camera , which only acquires three different spectral bands .

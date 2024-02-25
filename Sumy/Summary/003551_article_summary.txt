@@ -1,3 +1,0 @@
-Summary:
-it additionally has a sleep mode that ensures the storage system never runs low and will automatically go into standby when not in use .
-it additionally has a sleep mode that ensures the storage system never runs low , and will automatically go into standby when its not being used to increase efficiency .

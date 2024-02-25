@@ -1,3 +1,0 @@
-Summary:
-cases that did n't involve malicious intent included private health information being inadvertently mailed to the wrong patient .
-patients should be alert to cyber threats , including ' phishing ' emails from hackers posing as doctors , hospitals or health insurance companies , said lisa gallagher , a cybersecurity expert at the healthcare information and management systems society .

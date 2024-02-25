@@ -1,3 +1,0 @@
-Summary:
-google handwriting input is now available on android phones , and the firm said it took ' many years ' to perfect . '
-both tools override the selected sound profile , too , meaning that even if a phone is on silent it will still ring at full volume for five minutes .

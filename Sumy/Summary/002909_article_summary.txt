@@ -1,3 +1,0 @@
-Summary:
-more than 250 million emergency calls are made each year but two thirds have inaccurate location information , resulting in an estimated 10,000 deaths .
-each call is placed with the phone 's gps location , user details and any pre-entered medical information attached ( shown ) .

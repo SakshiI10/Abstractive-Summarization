@@ -1,3 +1,0 @@
-Summary:
-tewksbury police department came under attack by criminals who infected their network with a form of internet malware in december before demanding money to decrypt the files .
-tewksbury police department ( above ) came under attack by hackers which encrypted their computers ' files using a malware program called cryptolocker .

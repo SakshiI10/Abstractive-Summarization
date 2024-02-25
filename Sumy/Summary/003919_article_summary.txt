@@ -1,3 +1,0 @@
-Summary:
-agp - malaga airport did n't want to take its first three letters from the city name as mal means bad in spanish .
-as the amount of airports increased worldwide , this two-digit number rose to three so each could be given a unique code .

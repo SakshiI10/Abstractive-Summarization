@@ -1,3 +1,0 @@
-Summary:
-the company said at its annual build conference on wednesday that it will release new programming tools for software developers to rapidly adapt their apple and android apps to run on devices that use the new windows 10 operating system coming late this year .
-our goal is to make windows 10 the most attractive development platform ever , ' microsoft executive terry myerson told an audience of several thousand programmers and app developers .

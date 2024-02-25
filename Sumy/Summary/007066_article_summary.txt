@@ -1,3 +1,0 @@
-Summary:
-uk passengers faced more holiday chaos than during the same period last year , according to analysis from flight data specialist euclaim .
-they claim that their data comes directly from the aircrafts on board acars and ads-b systems , but monarch airlines use neither of these . '

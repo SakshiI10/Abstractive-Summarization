@@ -1,3 +1,0 @@
-Summary:
-songs are played in full but users can skip tracks if they want to .
-there will be six posts per week , grouped into series including : # locallysourced : featuring unsigned acts .
