@@ -1,0 +1,3 @@
+Summary:
+useing a process known as ' natural language generation ' ( nlg ) , it has the potential to one day be used in humanoid robots on our tv screens .
+nlg is the process of producing readable texts in english , or other languages , automatically on a computer .

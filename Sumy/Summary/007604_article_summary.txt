@@ -1,0 +1,3 @@
+Summary:
+films can also be watched across multiple devices using a ' follow me ' function .
+the ' follow me ' function lets sky store customers start watching a movie on one of their registered devices , pause and then resume watching it on another registered device over the web .

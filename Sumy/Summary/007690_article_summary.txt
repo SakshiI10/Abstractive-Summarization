@@ -1,0 +1,3 @@
+Summary:
+twitter has rolled out a new feature aimed at helping users sift through the large number of tweets on their feed each day .
+twitter already asks users who violate its abuse guidelines to delete content , and can suspend accounts permanently if they do n't .

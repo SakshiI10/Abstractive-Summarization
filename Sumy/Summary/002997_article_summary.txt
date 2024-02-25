@@ -1,0 +1,3 @@
+Summary:
+unlike other prototypes which die after just 100 charges , the stanford battery can also withstand more than 7,500 cycles without any loss of capacity .
+in our study , we have videos showing that you can drill through the aluminium battery pouch , and it will continue working for a while longer without catching fire . '

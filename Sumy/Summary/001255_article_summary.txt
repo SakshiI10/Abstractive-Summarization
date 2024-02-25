@@ -1,0 +1,3 @@
+Summary:
+researchers at the massachusetts institute of technology have now created an algorithm that can tell how effectively someone is striking a keypad .
+the researchers believe this strategy could also be used to evaluate patients with other diseases that affect motor skills , such as rheumatoid arthritis . '

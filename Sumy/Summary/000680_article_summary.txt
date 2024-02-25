@@ -1,0 +1,3 @@
+Summary:
+just like cloud seeding , it can create new clouds where there are none , by inducing condensation : naturally occurring water vapor is condensed into droplets , and ice crystals form , mimicking the natural process that creates clouds .
+recent tests have shown promise : `` a few years ago , in new mexico , we moved our big mobile terawatt laser to the top of a mountain and we shot it up into the atmosphere , trying to trigger lightning .

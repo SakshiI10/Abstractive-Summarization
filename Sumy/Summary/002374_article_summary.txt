@@ -1,0 +1,3 @@
+Summary:
+the lucky singleton will be given a round-the-world ticket with stops at five different destinations : new york , rio de janeiro , rome , stockholm and paris .
+the lucky singleton will be given a round-the-world ticket with stops in new york and four other cities .

@@ -1,0 +1,3 @@
+Summary:
+whether or not a person suffers hearing loss due to loud noise may depend on their genes , research suggests .
+genome wide association studies search the entire dna for common mutations to see if any of those are linked with a trait .

@@ -1,0 +1,3 @@
+Summary:
+chip maker qualcomm has unveiled its sense id 3d fingerprint scanner - the first biometric sensor using ultrasonic technology .
+‘ this can be used at a normal smartphone viewing distance , rather than within the 10cm range most existing iris recognition systems require .

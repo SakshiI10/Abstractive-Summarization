@@ -1,0 +1,3 @@
+Summary:
+google already lets its users enable two-step verification for their online accounts , and offers face unlock on android .
+it is likely this feature may appear in future versions of the android operating system , although a precise release date has n't been announced .

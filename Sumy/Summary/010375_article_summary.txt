@@ -1,0 +1,3 @@
+Summary:
+this is the first time the world 's biggest social network has opened their messenger app to seamless integration with third parties , and this level of integration does not exist on other messenger apps .
+camoji had previously integrated with imessage and whatsapp , but those integrations lacked a way for recipients to easily download camoji or launch it from a conversation to reply with another gif .

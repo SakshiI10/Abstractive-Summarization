@@ -1,0 +1,3 @@
+Summary:
+the app contains nutritional values of almost 350 foods which can be preconfigured by individual users to add new ingredients or edit existing ones .
+there are over 32,000 restaurants worldwide on this app and the search function is second to none ; key in party size , date , time , cuisine , price or distance and a tightly-curated list of suggestions will be presented to you .

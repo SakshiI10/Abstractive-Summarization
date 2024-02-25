@@ -1,0 +1,3 @@
+Summary:
+wanderbat , has looked at several different factors in order to form a smart rating and rank the top international airlines .
+if any two airlines tied , they were then ranked according to their percentage of on-time flights .
