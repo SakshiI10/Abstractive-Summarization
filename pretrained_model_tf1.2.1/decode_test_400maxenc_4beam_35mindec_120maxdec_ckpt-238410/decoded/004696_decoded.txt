@@ -1,3 +1,0 @@
-bodyprint was devised by christian holz , senaka buthpitiya , and marius knaust from the california-based yahoo labs .
-details of its algorithm are included in their paper , bodyprint : biometric user identification on mobile devices using the capacitive touchscreen to scan body parts .
-the salt card is designed to end the tiresome task of manually unlocking a smartphone or tablet by automatically making it come to life .

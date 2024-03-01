@@ -1,2 +1,0 @@
-the app 's homepage has a row of featured clips , each tagged with a certain topic .
-video has a counter that shows how many clips are attached , and which shows how many people have viewed the total project .

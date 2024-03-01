@@ -1,3 +1,0 @@
-sleep app tracks how well people rest at night by using motion sensor in smartphone .
-app then comes with a ` sleep score ' for the user .
-by looking at results from 944,000 people , including 75,000 from the uk .

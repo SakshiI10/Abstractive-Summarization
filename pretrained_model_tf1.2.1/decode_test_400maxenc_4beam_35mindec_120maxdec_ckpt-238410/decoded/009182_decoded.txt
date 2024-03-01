@@ -1,2 +1,0 @@
-google is offering users the option of downloading their entire search archive , as well as deleting part , or all , of the record .
-the feature exports your searches to google drive in a zip archive , with files divided by year and quarter .

@@ -1,3 +1,0 @@
-developers in boston have worked with global emergency response teams to create its one-touch-911 app .
-users can call the police , fire service , report a car crash or seek medical information attached .
-if the user does n't have signal on their network , the app lets them ` roam ' onto another network to connect the call .
